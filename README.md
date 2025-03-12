@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Jhovana Soares
+# 👩🏾‍💻 Jhovana Soares
 
 Olá, mundo! Me chamo Jhovana Soares, tenho 20 anos e sou natural do estado do Pará.
 Sou estudante de Engenharia da Computação na Universidade Federal do Sul e Sudeste do Pará.
